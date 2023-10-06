@@ -1,0 +1,6 @@
+package com.example.oi_tube
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
